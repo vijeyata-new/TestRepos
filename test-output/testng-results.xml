@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="suite" duration-ms="65421" started-at="2021-01-16T12:52:10Z" finished-at="2021-01-16T12:53:15Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="65421" started-at="2021-01-16T12:52:10Z" finished-at="2021-01-16T12:53:15Z">
+      <class name="com.hpractice.in.AmzMenulink">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="setUp" is-config="true" duration-ms="30161" started-at="2021-01-16T18:22:10Z" finished-at="2021-01-16T18:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="launchSite()[pri:1, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="launchSite" duration-ms="17600" started-at="2021-01-16T18:22:40Z" finished-at="2021-01-16T18:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchSite -->
+        <test-method status="PASS" signature="statusCheck1()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck1" is-config="true" duration-ms="0" started-at="2021-01-16T18:22:40Z" finished-at="2021-01-16T18:22:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck1 -->
+        <test-method status="PASS" signature="statusCheck2()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck2" is-config="true" duration-ms="1" started-at="2021-01-16T18:22:58Z" finished-at="2021-01-16T18:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck2 -->
+        <test-method status="PASS" signature="statusCheck1()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck1" is-config="true" duration-ms="1" started-at="2021-01-16T18:22:58Z" finished-at="2021-01-16T18:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck1 -->
+        <test-method status="PASS" signature="menuLink()[pri:2, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="menuLink" duration-ms="14913" started-at="2021-01-16T18:22:58Z" finished-at="2021-01-16T18:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- menuLink -->
+        <test-method status="PASS" signature="statusCheck2()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck2" is-config="true" duration-ms="0" started-at="2021-01-16T18:23:13Z" finished-at="2021-01-16T18:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck2 -->
+        <test-method status="PASS" signature="statusCheck1()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck1" is-config="true" duration-ms="9" started-at="2021-01-16T18:23:13Z" finished-at="2021-01-16T18:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck1 -->
+        <test-method status="PASS" signature="homeAgain()[pri:3, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="homeAgain" duration-ms="2613" started-at="2021-01-16T18:23:13Z" finished-at="2021-01-16T18:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homeAgain -->
+        <test-method status="PASS" signature="statusCheck2()[pri:0, instance:com.hpractice.in.AmzMenulink@5e5792a0]" name="statusCheck2" is-config="true" duration-ms="2" started-at="2021-01-16T18:23:15Z" finished-at="2021-01-16T18:23:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- statusCheck2 -->
+      </class> <!-- com.hpractice.in.AmzMenulink -->
+    </test> <!-- Test -->
+  </suite> <!-- suite -->
+</testng-results>
